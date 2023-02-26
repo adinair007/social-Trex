@@ -3,7 +3,8 @@
 
 ## Table of Contents:  
 * [Description](#Description)  
-* [Walkthrough Video](#Walkthrough-Video)  
+* [Walkthrough Video](#Walkthrough-Video)
+* [Screenshots](#Screenshots)
 * [Installation](#Installation)  
 * [Tests](#Tests)  
 * [License Details](#License-Details)    
@@ -14,6 +15,13 @@ An API for a social network web application where users can share their thoughts
 
 ## Walkthrough Video
 Screencastify Link: https://watch.screencastify.com/v/OLWQC481drUZstxzUX3i
+
+## Screenshots
+
+![Screenshot_20230225_062801](https://user-images.githubusercontent.com/112667543/221385870-6fcca10b-a6f8-466a-8c8e-f49ed2097c4d.png)
+
+![Screenshot_20230225_062828](https://user-images.githubusercontent.com/112667543/221385873-9e7b2ba8-e130-4dbe-9f4b-37c8370a050d.png)
+
 
 ## Installation:
 * Clone GitHub repository
