@@ -10,6 +10,7 @@ app.use(express.static("public"));
 
 app.use(require("./routes"));
 
+//--Setting up MongoDB connection--
 mongoose.connect(
   process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/social-Trex",
   {
